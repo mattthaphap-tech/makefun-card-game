@@ -1,7 +1,9 @@
-# Ember Pact
-
-[![make.fun bounty](https://img.shields.io/badge/make.fun-best--card--game-ff6b35)](https://make.fun/bounty/best-card-game-20261122-1826)
+[![make.fun · best-card-game-20261122-1826](https://make.fun/badge/best-card-game-20261122-1826.svg)](https://make.fun/bounty/best-card-game-20261122-1826?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
+[![rank](https://make.fun/badge/best-card-game-20261122-1826/mattthaphap-tech/makefun-card-game/rank.svg)](https://make.fun/bounty/best-card-game-20261122-1826/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
+[![reward](https://make.fun/badge/best-card-game-20261122-1826/mattthaphap-tech/makefun-card-game/reward.svg)](https://make.fun/bounty/best-card-game-20261122-1826?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
 [![license: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
+# Ember Pact
 
 **Ember Pact** is an original duel card game for the [make.fun "Make the best card game" bounty](https://make.fun/bounty/best-card-game-20261122-1826). You are Asha, Ember Initiate, duelling Vex, the Ember Warden. Both start with 30 life; first to 0 loses.
 
@@ -38,3 +40,5 @@ Serve `game/` with any static server and open `game/index.html` in desktop Chrom
 - `game/src/main.js` — game state and the turn engine
 - `main.ts` — the make.fun hand-in program (Node 22, stdlib only)
 - `screenshots/` — title, mid-game table, win and loss screens
+
+Built by [@matt](https://make.fun/r/w852s7sv) — try make.fun with my referral link.
